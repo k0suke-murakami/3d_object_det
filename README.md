@@ -1,4 +1,4 @@
-# 3D object detection with lidar and camera
+# 3D object detection with lidar and camera (in progress)
 ### Implementing [this paper: Multi-View 3D Object Detection Network for Autonomous Driving](https://arxiv.org/pdf/1611.07759.pdf)
 
 ---
