@@ -9,10 +9,14 @@
 
 [image1]: ./model.png "Model Visualization"
 [image2]: ./tf.png "Model Visualization"
+[image3]: ./result.png "Model Visualization"
 
 # Model
 
 ![alt text][image1]
 
 ![alt text][image2]
+
+# Result
+![alt text][image3]
 
